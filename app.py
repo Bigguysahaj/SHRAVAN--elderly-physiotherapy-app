@@ -53,7 +53,7 @@ pose = mp_pose.Pose(min_tracking_confidence=0.5, min_detection_confidence=0.5)
 with open('sitNreach.pkl', 'rb') as f: 
     model = pickle.load(f) 
 
-cap = cv2.VideoCapture(3)
+cap = cv2.VideoCapture(0)
 current_stage = ''
 counter = 0 
 bodylang_prob = np.array([0,0]) 
