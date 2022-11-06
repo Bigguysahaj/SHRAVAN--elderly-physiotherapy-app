@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">
-    ALDERLy
+    SHRAVAN
   </h1>
 </div>
 
@@ -19,7 +19,7 @@ We would use ML and computer vision to track daily and regular exercises along w
 
 ## Installation
 
-You can download the zip file and run our ligament tracking ML model on on your local system from [ALDERLy](https://github.com/Bigguysahaj/ALDERLy) and also we have build and deployed our [Web Page](https://adithyanmadhu1234.wixsite.com/elderly) on velo so you can check that out too.
+You can download the zip file and run our ligament tracking ML model on on your local system from [SHRAVAN](https://github.com/Bigguysahaj/ALDERLy) and also we have build and deployed our [Web Page](https://adithyanmadhu1234.wixsite.com/elderly) on velo so you can check that out too.
 
 
 ## Usage
